@@ -1,0 +1,21 @@
+Task,Category,Deadline_Days,Estimated_Hours,Priority,Completed
+Complete DSA Assignment,Education,2,5,High,No
+Study Machine Learning,Education,5,8,Medium,No
+Buy Groceries,Personal,1,1,Medium,No
+Morning Exercise,Health,0,1,Low,Yes
+Prepare Project Presentation,Work,3,6,High,No
+Read AI Research Paper,Education,7,4,Medium,No
+Pay Electricity Bill,Finance,1,1,High,No
+Doctor Appointment,Health,2,2,High,No
+Clean Room,Personal,4,2,Low,Yes
+Complete Python Project,Education,6,7,High,No
+Attend Team Meeting,Work,0,2,High,Yes
+Practice Coding Problems,Education,3,3,Medium,No
+Watch DSA Lecture,Education,5,2,Medium,Yes
+Meditation,Health,0,1,Low,Yes
+Renew Driving License,Personal,10,2,Medium,No
+Submit Internship Report,Work,1,5,High,No
+Read Book,Personal,7,2,Low,Yes
+Laundry,Personal,2,2,Medium,No
+Gym Workout,Health,1,2,Medium,Yes
+Prepare Resume,Career,4,4,High,No
